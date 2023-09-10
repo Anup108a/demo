@@ -1,3 +1,3 @@
 # demo
 Learning github <br>
-Author - Anup
+Author - Anup (Easy Codeing)
